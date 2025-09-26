@@ -10,7 +10,7 @@ This is a RESTful API for a comprehensive online bookstore. It provides a robust
 * **LOMBOK**
 * **MAVEN**
 * **HIBERNATE**
-* **MS SQL*
+* **MS SQL**
 * **SPRING JWT**
 
 ### Features
